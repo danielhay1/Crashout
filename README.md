@@ -10,7 +10,7 @@ In addition, on a crash, the Library will upload crash details to Firebase (real
 - Integrated with Firebase library and managed all application reported crashes there.
 - Optional: adding your google credentials will allow the library to notify the crash details from your email to which email addresses you desire.
 ## Screenshots:
-<a href="https://ibb.co/YyRrCr4"><img src="https://i.ibb.co/VQjK1K0/Screenshot-1643496422.png" alt="Screenshot-1643496422" border="0" width="300" hspace="10"><a href="https://ibb.co/7SMBdsw"><img src="https://i.ibb.co/CwC43Rk/Screenshot-1643497670.png" alt="Screenshot-1643497670" border="0" width="300" hspace="10"/></a><a href="https://ibb.co/J7Zvny5"><img src="https://i.ibb.co/DCd9485/Screenshot-1643497147.png" alt="Screenshot-1643497147" border="0" width="300" hspace="10"/></a>
+<a href="https://ibb.co/YyRrCr4"><img src="https://i.ibb.co/VQjK1K0/Screenshot-1643496422.png" alt="Screenshot-1643496422" border="0" width="250" hspace="10"><a href="https://ibb.co/7SMBdsw"><img src="https://i.ibb.co/CwC43Rk/Screenshot-1643497670.png" alt="Screenshot-1643497670" border="0" width="250" hspace="10"/></a><a href="https://ibb.co/J7Zvny5"><img src="https://i.ibb.co/DCd9485/Screenshot-1643497147.png" alt="Screenshot-1643497147" border="0" width="250" hspace="10"/></a>
 ## Installation:
 Add it to your build.gradle with:
 ```gradle
