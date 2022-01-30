@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id crash_BTN_details
+id crash_BTN_restart
+id crash_FL_back
+id crash_IMG_image
+id crashout_TV_title
+layout activity_crash

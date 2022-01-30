@@ -1,0 +1,2 @@
+com/example/crashout/BuildConfig.java
+ com.example.crashout.BuildConfig

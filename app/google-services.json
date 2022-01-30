@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926355123854",
+    "firebase_url": "https://crashout-x-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crashout-x",
+    "storage_bucket": "crashout-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926355123854:android:6d4a9a38674db7c1a0a3df",
+        "android_client_info": {
+          "package_name": "com.example.crashout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926355123854-3duprtiek2oemlua2ufos92gdnne27ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-leGRKTdyIFCqRwHdqVKm-uAOOnSD74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926355123854-3duprtiek2oemlua2ufos92gdnne27ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

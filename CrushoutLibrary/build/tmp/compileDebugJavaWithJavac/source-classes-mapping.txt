@@ -1,0 +1,2 @@
+com/example/crushoutlibrary/BuildConfig.java
+ com.example.crushoutlibrary.BuildConfig

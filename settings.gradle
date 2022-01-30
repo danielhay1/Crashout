@@ -1,0 +1,3 @@
+include ':CrushoutLibrary'
+include ':app'
+rootProject.name = "Crashout"
