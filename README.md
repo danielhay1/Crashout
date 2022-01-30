@@ -23,7 +23,7 @@ allprojects {
 Add the dependency:
 ```gradle
 dependencies {
-	        implementation 'com.github.danielhay1:Crashout:Tag'
+	        implementation 'com.github.danielhay1:Crashout:1.0'
 }
 ```
 ### Notes:
